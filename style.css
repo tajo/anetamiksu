@@ -22,7 +22,7 @@ li {padding-left: 10px;}
 
 .hlavni {float: left; padding: 15px; margin-left: 35px; margin-top: 0px; width: 420px; font-size: 11pt;}
 .sidebar {padding:14px; height: 800px; font-size: 11pt;}
-.popis {margin: 0px auto; width: 600px; font-size: 11pt; height:1390px; margin-top:20px;}
+.popis {margin: 0px auto; width: 600px; font-size: 11pt; height:1617px; margin-top:20px;}
 
 .logo { padding: 23px 0 0; float: left;
 	font-size: 23pt; color: white; font-family: 'Shadows Into Light Two', Arial, cursive;
@@ -87,23 +87,23 @@ nav .dd > ul > li > a:hover { background-color: rgba(17,125,158,0.10); }
 
 
 #respond input#submit {
-	 background: rgb(17,125,158); 
-	 background: -moz-linear-gradient(top, rgba(17,125,158,1) 0%, rgba(-5,101,154,1) 100%); 
-	 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(17,125,158,1)), color-stop(100%,rgba(-5,101,154,1))); 
-	 background: -webkit-linear-gradient(top, rgba(17,125,158,1) 0%,rgba(-5,101,154,1) 100%); 
-	 background: -o-linear-gradient(top, rgba(17,125,158,1) 0%,rgba(-5,101,154,1) 100%); 
-	 background: -ms-linear-gradient(top, rgba(17,125,158,1) 0%,rgba(-5,101,154,1) 100%); 
+	 background: rgb(17,125,158);
+	 background: -moz-linear-gradient(top, rgba(17,125,158,1) 0%, rgba(-5,101,154,1) 100%);
+	 background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(17,125,158,1)), color-stop(100%,rgba(-5,101,154,1)));
+	 background: -webkit-linear-gradient(top, rgba(17,125,158,1) 0%,rgba(-5,101,154,1) 100%);
+	 background: -o-linear-gradient(top, rgba(17,125,158,1) 0%,rgba(-5,101,154,1) 100%);
+	 background: -ms-linear-gradient(top, rgba(17,125,158,1) 0%,rgba(-5,101,154,1) 100%);
 	 background: linear-gradient(top, rgba(17,125,158,1) 0%,rgba(-5,101,154,1) 100%);
 	 border:1px solid rgb(-27,77,150);
 	 color:#fff;
 }
 #respond input#submit:hover {
-	background: rgb(-5,101,154); 
-	background: -moz-linear-gradient(top, rgba(-5,101,154,1) 0%, rgba(17,125,158,1) 100%); 
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(-5,101,154,1)), color-stop(100%,rgba(17,125,158,1))); 
-	background: -webkit-linear-gradient(top, rgba(-5,101,154,1) 0%,rgba(17,125,158,1) 100%); 
-	background: -o-linear-gradient(top, rgba(-5,101,154,1) 0%,rgba(17,125,158,1) 100%); 
-	background: -ms-linear-gradient(top, rgba(-5,101,154,1) 0%,rgba(17,125,158,1) 100%); 
+	background: rgb(-5,101,154);
+	background: -moz-linear-gradient(top, rgba(-5,101,154,1) 0%, rgba(17,125,158,1) 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(-5,101,154,1)), color-stop(100%,rgba(17,125,158,1)));
+	background: -webkit-linear-gradient(top, rgba(-5,101,154,1) 0%,rgba(17,125,158,1) 100%);
+	background: -o-linear-gradient(top, rgba(-5,101,154,1) 0%,rgba(17,125,158,1) 100%);
+	background: -ms-linear-gradient(top, rgba(-5,101,154,1) 0%,rgba(17,125,158,1) 100%);
 	background: linear-gradient(top, rgba(-5,101,154,1) 0%,rgba(17,125,158,1) 100%);
 	color:#fff;
 }
